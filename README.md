@@ -1,4 +1,4 @@
-# Build a Download Button full of Micro Interactions
+# Download Button using animejs
 
 [**DEMO**](https://lmgonzalves.github.io/download-button/)
 
